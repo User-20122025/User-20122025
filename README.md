@@ -43,4 +43,12 @@ Mening ismim **E'zozbek**. Men hozirda **Frontend dasturlash** yo'nalishida ilk 
 * **VS Code:** Kod yozish uchun asosiy qurolim va uni turli extensionlar bilan optimallashtirishni o'rganyapman.
 
 Mening maqsadim — sifatli, chiroyli va foydalanuvchilar uchun qulay interfeyslar yaratadigan professional dasturchi bo'lib yetishish. Har kuni yangi bilimlar olishga va loyihalar ustida ishlashga harakat qilyapman.
+
+### 📈 GitHub Stats
+
+![Ezozbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=User-20122025&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=User-20122025&layout=compact&theme=radical)
+
+---
 </details>
