@@ -26,6 +26,7 @@ I am a passionate beginner in the world of web development. Currently, I am focu
 ### 📈 GitHub Stats
 
 ![Ezozbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=User-20122025&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=User-20122025&layout=compact&theme=radical)
 
 ---
